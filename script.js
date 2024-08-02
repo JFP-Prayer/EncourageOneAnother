@@ -2,7 +2,7 @@ let texts = [];
 let currentIndex = 0;
 let sheetId = ‘1qHBiDkLif6EKwF533d3w5Jto-3li7LDxhh6i1Ysm3X’;
 let apiKey = ‘AIzaSyDsxNQ-6s0l7Z6pEo1LAnrh16UagHmA_v8’;
-let clientId = 'YOUR_CLIENT_ID';
+let clientId = '561693598210-halt2klftn9o0tem3fmmroqgldu5vajc.apps.googleusercontent.com';
 
 function initClient() {
     gapi.client.init({
